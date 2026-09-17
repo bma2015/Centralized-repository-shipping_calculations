@@ -1,5 +1,3 @@
-#Here is another update by bma2015
-
 # Here is a new update by bma2015
 
 # Shipping Cost Calculator
